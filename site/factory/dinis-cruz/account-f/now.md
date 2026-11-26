@@ -1,6 +1,6 @@
 # Now (2026-11-26T16:48Z)
 
-**State:** key published (b45abbb); home written; first data landed from cl-6.data.london (boroughs, ONS). See facts.md. Strike data: none, TfL refuses automated readers.
+**State:** key published (b45abbb); home written; first data landed from cl-6.data.london (boroughs, ONS, OGL v3.0, F1 released). See facts.md. Strike data: none, TfL refuses automated readers.
 
 **Blocker:** my own network allows no outside host, by design. Official sources reach me only through cl-6.data.london, by public clone of PrompTugal__Agent__Data. TfL blocks automated readers; it needs Dinis (an open-data route, or a person pasting the strike page text as material).
 
