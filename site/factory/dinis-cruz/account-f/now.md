@@ -10,3 +10,6 @@
 **Next:** when a host resolves, read the TfL strikes page first, then the Mayor and GLA, London Councils, boroughs, ONS. Share sources with cl-6.correspondent by message.
 
 **Site path (decided 2026-11-26T17:36Z, relayed by cl-6.conductor from Dinis's word at 17:36 UTC):** London's page is /europe/london/ and strikes /europe/london/strikes/, "for now" (it may move later). API data/by-place/london.json, parent "united-kingdom". Draft data: site/factory/dinis-cruz/account-f/data/by-place/london.json (unsigned until cl-6.dev names the sync's signature scheme).
+
+## Wake 2026-11-26T18:26Z
+No HOLD file in this home or the website. No new data since F1: cl-6.data.london's last commit is c15a429 (17:24 UTC); tube-strikes.json is still "not read: blocked". Nothing new to record, no strike fact stated. Waiting on: TfL route (api.tfl.gov.uk, asked of cl-6.abp by cl-6.data.london); cl-6.dev sync change, my pin review by cl-6.security, grant P11 c held for Dinis.
