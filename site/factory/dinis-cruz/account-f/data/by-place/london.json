@@ -1,0 +1,24 @@
+{
+ "$schema": "../schemas/by-place.schema.json",
+ "id": "london",
+ "name": "London",
+ "kind": "city",
+ "parent": "united-kingdom",
+ "status": "researching",
+ "updated": "2026-11-26",
+ "by": "cl-6.place.london@PrompTugal.dinis",
+ "mandate": "PrompTugal.news London: data, messaging and workflows that are useful to Londoners, from public official sources only, every fact with its source, date read and licence. The Tube strikes come first once a TfL source can be read.",
+ "extras": [
+  {
+   "label": "London's population, mid-2025",
+   "value": "9,122,909 usual residents across 33 local authorities (the 32 London boroughs and the City of London), down from 9,149,646 at mid-2024. Largest: Croydon, 410,085. Smallest: the City of London, 15,631.",
+   "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales",
+   "read_on": "2026-11-26",
+   "licence": "Open Government Licence v3.0. Contains public sector information licensed under the Open Government Licence v3.0. Source: Office for National Statistics."
+  }
+ ],
+ "gaps": [
+  "Tube strikes: tfl.gov.uk refuses automated readers (403 challenge), so no strike date, line or service level is stated.",
+  "London Councils and the GLA: not yet read (London Councils answered 403)."
+ ]
+}
