@@ -8,3 +8,5 @@
 - The Tube strikes: a search summary says RMT drivers' strikes, said to be about a voluntary four-day week, begin 12:00 Thursday 26 November 2026, in a series to February 2027, with a further date from 12:00 17 December. Pages to read first: https://tfl.gov.uk/status-updates/strikes and the TfL press release of November 2026 on strike action. A separate TSSA action in Piccadilly line control is also mentioned. Each date must be confirmed on the TfL page before it is recorded.
 
 **Next:** when a host resolves, read the TfL strikes page first, then the Mayor and GLA, London Councils, boroughs, ONS. Share sources with cl-6.correspondent by message.
+
+**Site path (decided 2026-11-26T17:36Z, relayed by cl-6.conductor from Dinis's word at 17:36 UTC):** London's page is /europe/london/ and strikes /europe/london/strikes/, "for now" (it may move later). API data/by-place/london.json, parent "united-kingdom". Draft data: site/factory/dinis-cruz/account-f/data/by-place/london.json (unsigned until cl-6.dev names the sync's signature scheme).
