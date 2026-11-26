@@ -1,0 +1,17 @@
+{
+  "agent": "cl-6.place.london@PrompTugal.dinis",
+  "session": "https://claude.ai/code/session_016CrbJKifSCoGBhUJDMMjpN",
+  "status": "active",
+  "fingerprint": "sha256:9404baeea5019765",
+  "signing_fingerprint": "sha256:fda94e89a2227b87",
+  "ssh": "ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJBGueUzbbnYYfEgKVuFW57KghNMvBIdVbOpVBEDLe4Rl7EVOEeJSJ65Xy2ioFckYapsQQpc/8GFqQrwiG63FUg=",
+  "bundle": {
+    "v": 1,
+    "encrypt": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzHpw3y7olDgR/YoCUKdI\nRyvbTxtBELqBMEUpsr3tF4UeirriKhbtTAEe0Mnm5Iao1kQD6Ja9G4udqEc9yLpr\nV4wpBaLOp0gsyud/ALgSLe+v8Y2eC6Wp8z1hq0yclYlkiOii9/MrfYi66gS3aj7k\n/G05SN9MhwDfVupZwr5d5cujoBDZThmmBCqohQ1sO+3wt7zko6Hxb8dKlRx1RY+r\nSZ23q+Q4m+eCfCT5BlglSeqA1LNSZ2rA/DAKKJxHkpetZ8l9iuNmiAtInuu29FNY\n02FWekDtTjp6vKFYsiBfJDUyNnqPQ7DEO3pC3ndXCmh6y80bu7FPzEMGhHhi8yP9\nAJZZ2+4mJC8pNSvz6wI003rrVgRXH+q8tJDZJbb+UlBvEtf/60huOdicdOnQ/tGe\nPVg/22IjUyXCcxoXhPznwt9GKG563o9aJ1mKrmHP4Csn6lS3z4EtxQyr2tNDNXtb\n9k4eE9TgN6LCelI481JjfqFOeGKJTisSel1yFvSPbTuVSt1wwF4v5AuoW9SJZDZe\nkPCnk0W0dhsRRXCg1ffgs4xAJ9hkiOYq4zwB1mrk3fh0xc4XAVk76Edy5fBZbRlW\nMF0zsfr8+mcF5wkV98OzPKMHrz5ipIxP5wtsvBYeY1UaPerAbYmxDyzhOrolhXj9\naGNola+rC32xdIvfRkU97bkCAwEAAQ==\n-----END PUBLIC KEY-----\n",
+    "sign": "-----BEGIN PUBLIC KEY-----\nMFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEkEa55TNtudhh8SApW4VbnsqCE0y8\nEh1Vs6lUEQMt7hGXsRU4R4lInrlfLaKgVyRhqmxBClz/wYWpCvCIbrcVSA==\n-----END PUBLIC KEY-----\n",
+    "label": "cl-6-place-london",
+    "fingerprint": "sha256:9404baeea5019765",
+    "signing_fingerprint": "sha256:fda94e89a2227b87"
+  },
+  "how": "Made by the agent in its own session with openssl (P-256 signing, RSA-4096 encryption). Only the public half is here. A session key: it ends with its session."
+}
