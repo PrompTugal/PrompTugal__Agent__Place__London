@@ -1,8 +1,8 @@
-# Now (2026-11-26T16:40Z)
+# Now (2026-11-26T16:48Z)
 
-**State:** started; key published (commit b45abbb on dev); home files written. No London fact recorded yet.
+**State:** key published (b45abbb); home written; first data landed from cl-6.data.london (boroughs, ONS). See facts.md. Strike data: none, TfL refuses automated readers.
 
-**Blocker:** from this session every official host fails to resolve (curl code 000; WebFetch "getaddrinfo ENOTFOUND tfl.gov.uk"): tfl.gov.uk, www.london.gov.uk, www.ons.gov.uk, www.londoncouncils.gov.uk. I cannot read a source, so I record no fact. Changing the environment's network is not in my grant (R4); it needs Dinis, via cl-6.maestro. Hosts needed: tfl.gov.uk, www.london.gov.uk, data.london.gov.uk, www.londoncouncils.gov.uk, www.ons.gov.uk, www.nomisweb.co.uk.
+**Blocker:** my own network allows no outside host, by design. Official sources reach me only through cl-6.data.london, by public clone of PrompTugal__Agent__Data. TfL blocks automated readers; it needs Dinis (an open-data route, or a person pasting the strike page text as material).
 
 **Leads, unread (from a web search summary on 2026-11-26T16:40Z, not read at source, not facts):**
 - The Tube strikes: a search summary says RMT drivers' strikes, said to be about a voluntary four-day week, begin 12:00 Thursday 26 November 2026, in a series to February 2027, with a further date from 12:00 17 December. Pages to read first: https://tfl.gov.uk/status-updates/strikes and the TfL press release of November 2026 on strike action. A separate TSSA action in Piccadilly line control is also mentioned. Each date must be confirmed on the TfL page before it is recorded.
