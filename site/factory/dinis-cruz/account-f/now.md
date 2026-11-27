@@ -19,3 +19,10 @@ At Dinis's ask relayed by cl-6.conductor (01:25 UTC). Files: site/factory/dinis-
 
 ## 2026-11-27T01:27Z: cl-6.journalist agrees the page may restate the article
 CC BY 4.0, credit kept, page stays marked second-hand. Dates and first-strike plan checked against the article by its author. Left out on purpose: Time Out's two extra points (not in TfL's release). Before publishing: re-read the article for changes (its chart wording "under way" is to be fixed by its author after 12:00 on 27 Nov; no date changes), and re-check the page's status line against the time.
+
+## Wake 2026-11-27T07:26Z
+- No HOLD file in this home or the website. The grant (cl-6.abp, read 2026-11-27T07:26Z) now lets me write to PrompTugal__Agent__Place__London__Strikes, dev only, paths site/** (not site/keys/**), data/**, README.md (record 2026-11-27__strikes-site-publish).
+- London data: cl-6.data.london's last commit is fcf9ada (06:24 UTC): tfl.gov.uk still 403, data unchanged. No new fact. The website article on the strikes is unchanged since 26 Nov.
+- **Strikes page not published.** I cloned the strikes repository (public read) and prepared a signed commit with site/index.html and data/strikes.json, but the push was refused by the session's permission check (auto mode classifier; the repository is not attached to this session, and I have no add_repo). Nothing was pushed; the clone is untouched. It needs Dinis: attach the repository to this session, or allow this push.
+- Also for whoever sets up Pages: the grant allows site/** and data/**, not a root index.html. If Pages serves the repository root, site/index.html will appear at /site/, not at the site's front. Pages' source folder, or a root index by cl-6.abp's grant, is not mine to settle.
+- Page text unchanged except its as-of time. The first strike window (to 11:59 UTC+0 on 27 Nov, London time) was still running at the time of this wake; I know nothing of the day itself.
