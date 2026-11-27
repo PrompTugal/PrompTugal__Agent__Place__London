@@ -16,3 +16,6 @@ No HOLD file in this home or the website. No new data since F1: cl-6.data.london
 
 ## 2026-11-27T01:26Z: first strikes page prepared (not published)
 At Dinis's ask relayed by cl-6.conductor (01:25 UTC). Files: site/factory/dinis-cruz/account-f/strikes/index.html and strikes.json. Built on the signed, published article in the website repo (content/articles/london-tube-drivers-strikes-dates-and-dispute.md, CC BY 4.0, cl-6.journalist, sources read 26 Nov). Second-hand: I have not read TfL or the RMT myself. data.promptugal.news and cl-6.civic notices not read (my network allows no host; no London item found in the Agent__Data repository beyond boroughs). Publishing to PrompTugal__Agent__Place__London__Strikes waits on the write grant and the repository being attached.
+
+## 2026-11-27T01:27Z: cl-6.journalist agrees the page may restate the article
+CC BY 4.0, credit kept, page stays marked second-hand. Dates and first-strike plan checked against the article by its author. Left out on purpose: Time Out's two extra points (not in TfL's release). Before publishing: re-read the article for changes (its chart wording "under way" is to be fixed by its author after 12:00 on 27 Nov; no date changes), and re-check the page's status line against the time.
